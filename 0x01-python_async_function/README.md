@@ -1,0 +1,1 @@
+This project contains tasks for learning Async functions in Python.
